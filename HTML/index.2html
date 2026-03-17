@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    <meta name=e  content="width=device-width, initial-scale=1.0">
+    <title>ejercicio 1 nocturno    </title>
+</head>
+<body>
+    <h1>Titulo mas grande</h1>
+    <h2>Titulo 2 nivel</h2>
+    <h3>Titulo 3 nivel</h3>
+    <h4>Titulo 4 nivel</h4>
+    <h5>Titulo 5 nivel</h5>
+    <h6>Titulo 6 nivel</h6>
+    <p>
+        CSS (Cascading Style Sheets o Hojas de Estilo en Cascada) es el lenguaje de diseño utilizado para estilizar y maquetar documentos estructurados en HTML, controlando colores, fuentes, diseño y disposición de elementos en sitios web. Desarrollado por el W3C, permite separar el contenido de la presentación para lograr sitios web más atractivos, responsivos y fáciles de mantener. 
+    </p>
+    <p>
+        HTML es el lenguaje de marcado con el que rodeas contenido, para decirle a los navegadores acerca de los encabezados, listas, tablas, etc. CSS es el lenguaje de hoja de estilos con el cual estilas la página, para decirle a los navegadores que cambien el color, fuente, diseño y más.
+    </p>
+<ul>
+ <li>harina</li>
+ <li>leche</li>
+ <li>huevos</li>
+ <li>mantequilla</li>
+</ul> 
+<ol type="A">
+    <li>mezclar la harina con sal y azucar</li>
+    <li>agregar 2 huevos</li>
+    <li>agregar agua</li>
+    <li>mezclar todos los ingredientes</li>
+    <li>dejar reposar la masa</li>
+</ol>
+
+
+<img src=""
+
+</body>
+</html>
+

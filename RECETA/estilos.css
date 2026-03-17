@@ -1,0 +1,39 @@
+h1{
+color: rgb(95, 200, 125);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: initials;
+}
+h2{color: rgb(123, 188, 149);
+
+
+
+
+
+}
+
+body{
+    background-color: rgb(223, 215, 215);
+}
+
+div{
+    width: 250px;
+    border: 15px solid green;
+    background-color: azure;
+    padding: 50px;
+    margin-left: 300px;
+    border-radius: 200px;
+}
+img{
+    border:10px solid #980505;
+    border-radius:5cap;
+    width:150px;
+    padding:15px;
+    mirror:true;
+    
+}
+
+p{
+    text-align:inherit;
+}
+
+
